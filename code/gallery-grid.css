@@ -1,6 +1,7 @@
 body {
     /*background-color: #3ca362;*/
-    background-color: #6C9036;
+    /*background-color: #6C9036;*/
+    background-color: #B9C058;
     min-height: 100vh;
     font: normal 16px sans-serif;
     padding: 60px 0;
@@ -99,7 +100,6 @@ img {
     transform: translate(-50%, -50%);
     color: white;
 }
-
 * {
   border-radius: 0 !important;
 }
