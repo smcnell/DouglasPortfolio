@@ -145,6 +145,10 @@ img {
         padding: 0;
     }
 
+    .hero-text {
+      left: 45%;
+    }
+
     .caption {
       display: none;
     }
