@@ -158,3 +158,9 @@ img {
         border-radius: 0;
     }
 }
+
+@media(min-width: 1700px) {
+    .caption {
+      top: 65%;
+    }
+}
